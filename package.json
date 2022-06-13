@@ -1,0 +1,11 @@
+{
+  "name": "softxels-example-worlds",
+  "author": "Daniel Esteban Nombela",
+  "license": "MIT",
+  "scripts": {
+    "build": "sh build.sh"
+  },
+  "dependencies": {
+    "softxels-voxelizer": "^0.0.10"
+  }
+}
